@@ -1,0 +1,2 @@
+Put back the pop up animation of the cards, only don't animate to pop up the entire conatiner that when i hover the mouse in the whole container of the content inside each module it zoom in and out,Don't add that.
+Please add balance in each table of the month after OR/SI# in the student account card, and that balnce computes automatically the balance of the student if there is and none
